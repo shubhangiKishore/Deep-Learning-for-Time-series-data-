@@ -1,0 +1,7 @@
+Time Series Prediction With Deep Learning in Keras
+Following tutorial- http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
+Data Set used -  Exchabge Data "https://datamarket.com/data/set/22tb/exchange-rate-twi-may-1970-aug-1995#!ds=22tb&display=line"
+
+Train and test a deep learning model for predicting the  exchange rate 
+
+Dependencies  - Pandas, Keras, numpy 
